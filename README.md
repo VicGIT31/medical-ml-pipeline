@@ -117,8 +117,3 @@ medical-ml-pipeline/
 - **Rigorous evaluation:** multiple models, multiple metrics, train/val/test discipline
 - **Reproducible:** stratified splits, fixed pipelines, saved intermediate artifacts
 
----
-
-## Author
-
-**Victor Delannoy** — Epitech, AI track
